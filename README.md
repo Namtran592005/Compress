@@ -1,4 +1,4 @@
-# CompressSystemInteractive.bat
+# Compress.bat
 
 Một tiện ích dòng lệnh cao cấp cho Windows, được thiết kế để **tối ưu hóa dung lượng đĩa** bằng cách nén các thư mục hệ thống và phần mềm quan trọng bằng tính năng nén chuẩn `compact.exe` của Windows (CompactOS). Script hỗ trợ tương tác trực quan, kiểm tra thông minh và chỉ thực thi khi có quyền quản trị (Admin).
 
