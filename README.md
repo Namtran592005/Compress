@@ -41,7 +41,7 @@ Script thực hiện:
 
 ## 📥 Cách sử dụng
 
-1. **Tải tệp script**: `CompressSystemInteractive.bat`
+1. **Tải tệp script**: `Compress.bat`
 2. **Chuột phải → Run as Administrator**
 3. **Làm theo hướng dẫn trên màn hình** (nếu có).
 4. **Chờ quá trình hoàn tất và xem báo cáo cuối cùng.**
